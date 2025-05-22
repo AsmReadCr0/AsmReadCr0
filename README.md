@@ -1,16 +1,14 @@
-## Hi there 👋
+## about me
 
-<!--
-**AsmReadCr0/AsmReadCr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 15 year old developer from czech republic
+- focused on uefi development and reverse engeneering
 
-Here are some ideas to get you started:
+## interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- uefi development  
+- malware research  
+- anti-cheat reverse engineering  
+
+## contact
+
+telegram: [@readcr0](https://t.me/readcr0)
