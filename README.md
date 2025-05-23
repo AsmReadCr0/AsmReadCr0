@@ -1,8 +1,3 @@
-## about me
-
-- 15 year old developer from czech republic
-- focused on uefi development and reverse engeneering
-
 ## interests
 
 - uefi development  
