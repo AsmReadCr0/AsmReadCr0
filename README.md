@@ -2,7 +2,8 @@
 
 - uefi development  
 - malware research  
-- anti-cheat reverse engineering  
+- reverse engineering
+- anti-cheats
 
 ## contact
 - available exclusive projects are for purchase ( crypto only )
