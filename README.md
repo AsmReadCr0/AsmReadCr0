@@ -1,5 +1,5 @@
 # About me
-- Hey, my name is Elena
+- Hey, my name is Yuri (Юрий)
 - Originally from russia, living in europe
 
 ## Interests
